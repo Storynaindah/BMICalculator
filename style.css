@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+#kalkulator {
+  background-color: rgb(101, 179, 179);
+  padding: 5% 0%;
+  margin: 15%;
+  border-radius: 20px;
+  border: none;
+}
+input {
+  padding: 15px 18px;
+  margin: 3px;
+  border: none;
+  border-radius: 5px;
+  border: none;
+  background-color: lightcyan;
+}
+.button {
+  border-radius: 15px;
+  color: rgb(4, 53, 103);
+  background-color: rgb(46, 246, 236);
+  padding: 5px;
+  border: none;
+  font-family: "Times New Roman", Times, serif;
+}
